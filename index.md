@@ -18,16 +18,16 @@
     </div>
     <div class="container">
         <div class="container">
-            <a class="wrapper wrapper-rise" href="http://github.com/ajvani" target="_blank">
+            <a class="wrapper wrapper-rise" href="http://github.com/chrock1" target="_blank">
                 <i class="fa fa-github fa-2x my-link"></i>
             </a>
-            <a class="wrapper" href="assets/resume/resume.pdf" target="_blank">
+            <a class="wrapper" href="assets/resume/2018-19 Resume.pdf" target="_blank">
                 <i class="fa fa-file-pdf-o fa-2x my-link" aria-hidden="true"></i>
             </a>
-            <a class="wrapper wrapper-rise" href="mailto:jadvani.anmol@gmail.com" target="_blank">
+            <a class="wrapper wrapper-rise" href="mailto:chris.ayoub1234@gmail.com" target="_blank">
                 <i class="fa fa-envelope-o fa-2x my-link" aria-hidden="true"></i>
             </a>
-            <a class="wrapper" href="https://www.linkedin.com/in/anmol-jadvani-4200b6122/" target="_blank">
+            <a class="wrapper" href="https://www.linkedin.com/in/christopher-ayoub/" target="_blank">
                 <i class="fa fa-linkedin fa-2x my-link" aria-hidden="true"></i>
             </a>
         </div>
