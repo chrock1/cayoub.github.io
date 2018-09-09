@@ -14,7 +14,7 @@
         <div id="title"><span>Hi, I'm </span> <span class="name">Anmol</span> Jadvani</div>
     </div>
     <div class="container my-container">
-        <img src="assets/images/me.jpg" alt="me" id="me">
+        <img src="assets/images/myself.jpg" alt="me" id="me">
     </div>
     <div class="container">
         <div class="container">
